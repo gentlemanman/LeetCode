@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\c++test\leetcode\week\week\main.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+  week.vcxproj -> E:\C++Test\LeetCode\week\Debug\week.exe
